@@ -60,3 +60,6 @@ Steps:
        7.2 Monitor the pipeline stages and fix any issues that arise.
 
 This end-to-end Jenkins pipeline will automate the entire CI/CD process for a Java application, from code checkout to production deployment, using popular tools like SonarQube, Argo CD, Helm, and Kubernetes.
+
+![74-1](https://github.com/Faizansoudagar14/Jenkins-CI-CD-Project/assets/93043842/ef5ca934-e0be-4cef-8066-9775604f20d4)
+
